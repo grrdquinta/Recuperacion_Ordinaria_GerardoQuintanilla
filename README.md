@@ -81,7 +81,7 @@ Gestión de Estudiantes
 <img width="1895" height="928" alt="image" src="https://github.com/user-attachments/assets/dc31d091-6ae7-4988-91d3-d14c1b8ebdd7" />
 
 🎥 Video Demostrativo
-[[Enlace al video demostrativo en YouTube/Drive]](https://drive.google.com/file/d/1BUdP8Bye5aCX1-Zap8eSineL-Yhmtym7/view?usp=sharing)
+[[Enlace al video demostrativo en Drive]](https://drive.google.com/file/d/1BUdP8Bye5aCX1-Zap8eSineL-Yhmtym7/view?usp=sharing)
 Video que muestra las principales funcionalidades de la aplicación, navegación entre páginas y uso del sistema.
 
 
