@@ -42,20 +42,8 @@ http://localhost:5173
 
 
 🏗️ Estructura del Proyecto
-src/
-├── components/          # Componentes reutilizables
-│   ├── Hooks/          # Custom hooks
-│   └── ...
-├── pages/              # Páginas principales
-│   ├── Dashboard/      # Panel de control
-│   ├── StudentsPage/   # Gestión de estudiantes
-│   ├── Navbar/         # Barra de navegación
-│   └── WelcomePage/    # Página de bienvenida
-├── assets/             # Recursos estáticos
-├── App.jsx             # Componente principal
-├── App.css             # Estilos globales
-├── index.css           # Estilos base
-└── main.jsx            # Punto de entrada
+<img width="248" height="426" alt="image" src="https://github.com/user-attachments/assets/9d219814-7dab-4b36-9457-c86ab8942d89" />
+
 
 Uso
 Navegación Principal
