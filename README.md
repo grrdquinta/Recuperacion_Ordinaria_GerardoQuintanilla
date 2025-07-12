@@ -28,8 +28,8 @@ npm o yarn
 Pasos de instalación
 
 Clonar el repositorio
-bashgit clone https://github.com/tu-usuario/escuelita-marvel-app.git
-cd escuelita-marvel-app
+bashgit clone [https://github.com/tu-usuario/escuelita-marvel-app.git](https://github.com/grrdquinta/Recuperacion_Ordinaria_GerardoQuintanilla.git)
+cd frontend
 
 Instalar dependencias
 bashnpm install
